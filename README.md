@@ -24,4 +24,4 @@ pdu_system{firmware="s4.82-091012-1cb08s",location="KekColo",model="SWH-1023J-08
 # HELP pdu_voltage PDU Voltage in Volts
 # TYPE pdu_voltage gauge
 pdu_voltage 230
-``
+```
